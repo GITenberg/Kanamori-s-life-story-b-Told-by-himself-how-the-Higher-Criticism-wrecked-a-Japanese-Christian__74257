@@ -1,0 +1,43 @@
+_repo: Kanamori-s-life-story-b-Told-by-himself-how-the-Higher-Criticism-wrecked-a-Japanese-Christian__74257
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Stevenson, J. Ross (Joseph Ross)
+    alias: Stevenson, Joseph Ross
+    birthdate: 1866
+    deathdate: 1939
+    gutenberg_agent_id: '57415'
+    url: http://www.gutenberg.org/2009/agents/57415
+creator:
+  author:
+    agent_name: Kanamori, Paul M.
+    aliases:
+    - 金森通倫
+    - Kanamori, Tsurin
+    - Kanamori, Michitomo
+    birthdate: 1857
+    deathdate: 1945
+    gutenberg_agent_id: '57414'
+    url: http://www.gutenberg.org/2009/agents/57414
+description: ''
+gutenberg_issued: '2024-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74257'
+language: en
+pgterms:marc905: 20240714081651kanamori
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPhiladelphia, PA :$bThe Sunday School Times Company, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kanamori, Paul M., 1857-1945'
+- !lcc 'BV'
+- GITenberg
+title: 'Kanamori''s life-story : $b Told by himself; how the Higher Criticism wrecked
+  a Japanese Christian—and how he came back'
+url: http://www.gutenberg.org/ebooks/74257
