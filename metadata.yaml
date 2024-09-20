@@ -8,6 +8,9 @@ contributor:
     deathdate: 1939
     gutenberg_agent_id: '57415'
     url: http://www.gutenberg.org/2009/agents/57415
+covers:
+- cover_type: archival
+  image_path: 74257-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Kanamori, Paul M.
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '57414'
     url: http://www.gutenberg.org/2009/agents/57414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74257#Kanamori-s-life-story-b-Told-by-himself-how-the-Higher-Criticism-wrecked-a-Japanese-Christian_
 gutenberg_issued: '2024-08-15'
 gutenberg_type: Text
 identifiers:
